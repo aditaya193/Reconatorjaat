@@ -12,11 +12,11 @@ Documentation for Reconator
 
 
 <p align="center">
-  <a href="https://github.com/gokulapap/Reconator">
+  <a href="https://github.com/aditaya193/Reconator">
     <img src="https://img.shields.io/badge/release-v1.0-green">
   </a>
    </a>
-  <a href="https://github.com/gokulapap/Reconator/blob/master/LICENSE">
+  <a href="https://github.com/aditya193/Reconator/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
   </a>
   <a href="https://twitter.com/CodingGokul">
@@ -45,7 +45,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aditaya193/Reconatorjaat)
 
 ## 📋 Requirements
 
